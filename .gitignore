@@ -9,9 +9,6 @@ lerna-debug.log*
 
 node_modules
 dist
-.bolt
-bolt
-use.txt
 dist-ssr
 *.local
 
